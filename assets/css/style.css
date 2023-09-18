@@ -173,8 +173,7 @@ section {
   line-height: 0;
 }
 .header .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+  width: 11%;
 }
 .header .logo h1 {
   font-size: 30px;
